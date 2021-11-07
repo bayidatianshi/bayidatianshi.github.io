@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog4z.github.io/post/first/</loc>
+    <loc>http://bayidatianshi.github.io/post/first/</loc>
     <lastmod>2021-11-07T16:33:43+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog4z.github.io/</loc>
-    <lastmod>2021-11-07T16:33:43+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog4z.github.io/post/</loc>
+    <loc>http://bayidatianshi.github.io/</loc>
     <lastmod>2021-11-07T16:33:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog4z.github.io/about/</loc>
+    <loc>http://bayidatianshi.github.io/post/</loc>
+    <lastmod>2021-11-07T16:33:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bayidatianshi.github.io/about/</loc>
     <lastmod>2021-11-07T16:30:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog4z.github.io/categories/</loc>
+    <loc>http://bayidatianshi.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog4z.github.io/tags/</loc>
+    <loc>http://bayidatianshi.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
